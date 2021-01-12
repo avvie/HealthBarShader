@@ -1,4 +1,5 @@
 On the quest of learning shaders I wanted to do something with animated materials, reacting to some external parameter.
+
 I was inspired for this project from one of [Freya Holmers streams](http://www.acegikmo.com/)! She provides amazing educational content. 
 Miss Holmers was running like an online class on creating a healthbar, and after thinking how I would go about it, I started working on this project.
 
