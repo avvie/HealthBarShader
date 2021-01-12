@@ -3,6 +3,10 @@ On the quest of learning shaders I wanted to do something with animated material
 I was inspired for this project from one of [Freya Holmers streams](http://www.acegikmo.com/)! She provides amazing educational content. 
 Miss Holmers was running like an online class on creating a healthbar, and after thinking how I would go about it, I started working on this project.
 
+
+I suggest that you enable "Animated Material" so you can see how the material behaves without being in Play Mode.
+
+
 I wanted the whole healthbar toL
 1) be one shader
 2) be framed (using sdf) 
